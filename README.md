@@ -131,3 +131,13 @@ From the main menu, you can choose between Level Mode and Timed Mode. You can al
     * [BlockBusterUpdates on GitHub](https://github.com/jhamped/blockbuster-assembly)
     * [BBuster Neue Version on GitHub](https://github.com/MarkDaniel0702/BBusterNeueVersion)
     *(Note: The second link has been corrected to a typical GitHub repository URL format.)*
+
+## Project Photos and Videos
+
+### The Whole Group
+![The Whole Group](https://github.com/user-attachments/assets/20a4c0b3-f065-4723-be78-f42f80ab0f75)
+
+### The Game
+![The Game](https://github.com/MarkDaniel0702/ASSEMBLY-LANGUAGE-GAME-BLOCKBUSTER/blob/4a98117d4d6b4fb12668eb9b1f5e4beb05b0e950/READMEPHOTOS/blockb-demo.gif)
+
+---

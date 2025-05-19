@@ -106,7 +106,7 @@ From the main menu, you can choose between Level Mode and Timed Mode. You can al
 2.  Download and set up TASM Tools.
 3.  Clone this repository:
     ```bash
-    git clone [https://github.com/jhamped/blockbuster-assembly.git](https://github.com/jhamped/blockbuster-assembly.git)
+    git clone [https://github.com/MarkDaniel0702/ASSEMBLY-LANGUAGE-GAME-BLOCKBUSTER.git)
     ```
 4.  Launch DOSBox and navigate to the game directory where you cloned the repository.
 5.  Compile the game using TASM:
